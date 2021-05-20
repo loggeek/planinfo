@@ -12,11 +12,6 @@
 	
 	<p>Cette image n'existe pas.<p>
 	<a href="main.php">Retour à l'accueil</a> <br />
-	
-	<hr />
-	<footer>
-		<p>© 2021 - <?php echo date('Y') ?>.</p>
-	</footer>
 </body>
 
 </html>

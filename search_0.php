@@ -11,11 +11,6 @@
 	<h1>Aucun résultat</h1>
 	<p>La recherche n'a donné aucun résultat.<p>
 	<a href="main.php">Retour à l'accueil</a>
-	
-	<hr />
-	<footer>
-		<p>© 2021 - <?php echo date('Y') ?>.</p>
-	</footer>
 </body>
 
 </html>

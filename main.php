@@ -28,11 +28,6 @@
 	
 	<img src="image.php?plan=B1E2" width="30%" height="30%" />
 	<p>Bâtiment 1, étage 2<p>
-	
-	<hr />
-	<footer>
-		<p>© 2021 - <?php echo date('Y') ?>.</p>
-	</footer>
 </body>
 
 </html>

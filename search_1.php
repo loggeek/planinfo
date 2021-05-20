@@ -58,10 +58,6 @@
 			}
 		}
 	?>
-	<hr />
-	<footer>
-		<p>© 2021 - <?php echo date('Y') ?>.</p>
-	</footer>
 </body>
 
 <script>

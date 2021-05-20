@@ -28,10 +28,6 @@
 		echo '<code id="item-to-copy"> vncviewer ' . $ip . ' -viewonly</code>';
 		echo '<button onclick="copyToClipboard()">Copier la commande</button> <br />';
 	?>
-	<hr />
-	<footer>
-		<p>© 2021 - <?php echo date('Y') ?>.</p>
-	</footer>
 </body>
 
 <script>
