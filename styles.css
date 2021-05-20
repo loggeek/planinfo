@@ -1,0 +1,52 @@
+@font-face {
+	font-family: "Sans";
+	src: url("fonts/sans.ttf");
+}
+
+@font-face {
+	font-family: "Sans Bold";
+	src: url("fonts/sans_bold.ttf");
+}
+
+body
+{
+	font-family:"Sans", sans-serif;
+	color:white;
+	background-color:green;
+}
+
+h1, h2, h3, h4, h5, h6
+{
+	font-family:"Sans Bold", sans-serif;
+	font-weight: normal;
+}
+
+b, strong
+{
+	font-family:"Sans Bold", sans-serif;
+	font-weight: normal;
+}
+
+a
+{
+	color:yellow;
+}
+
+input
+{
+	font-family: "Sans";
+}
+
+code
+{
+	font-family: monospace;
+	color: black;
+	background-color: white;
+	padding: 2px;
+	border: 4px;
+}
+
+button
+{
+	font-family: "Sans";
+}

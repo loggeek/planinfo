@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding="UTF-8" standalone='yes'?>
+
+<!-- Types : desktop, hotspot, laptop, switch -->
+
+<plan>
+	<filename>Bâtiment1-2èmeétage.png</filename>
+	<coms>
+		<com>
+			<name>UC-17-27</name>
+			<x>1100</x>
+			<y>1230</y>
+			<type>desktop</type>
+			<ip>10.4.2.37</ip>
+		</com>
+	</coms>
+</plan>

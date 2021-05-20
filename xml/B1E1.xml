@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding="UTF-8" standalone='yes'?>
+
+<!-- Types : desktop, hotspot, laptop, switch -->
+
+<plan>
+	<filename>B1E1.png</filename>
+	<coms>
+		<com>
+			<name></name>
+			<x></x>
+			<y></y>
+			<type></type>
+			<ip></ip>
+		</com>
+	</coms>
+</plan>
